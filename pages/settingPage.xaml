@@ -1,0 +1,14 @@
+﻿<Page x:Class="prakt8.pages.settingPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:prakt8.pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="200" d:DesignWidth="200"
+      Title="settingPage" Background="Gray">
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Button Content="Сменить тему" Width="150px" Click="Button_Click"/>
+        <Button x:Name="hiddenbtn" Content="Скрыть" Width="150px" Margin="0 10 0 0" Click="hiddenbtn_Click"/>
+    </StackPanel>
+</Page>

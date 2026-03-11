@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26616D96-978D-4F2C-A313-70D140CE9F2C}|prakt8.csproj|c:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26616D96-978D-4F2C-A313-70D140CE9F2C}|prakt8.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26616D96-978D-4F2C-A313-70D140CE9F2C}|prakt8.csproj|c:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\pages\\createpriem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26616D96-978D-4F2C-A313-70D140CE9F2C}|prakt8.csproj|solutionrelative:pages\\createpriem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26616D96-978D-4F2C-A313-70D140CE9F2C}|prakt8.csproj|c:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\pacient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26616D96-978D-4F2C-A313-70D140CE9F2C}|prakt8.csproj|solutionrelative:pacient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26616D96-978D-4F2C-A313-70D140CE9F2C}|prakt8.csproj|c:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\priem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26616D96-978D-4F2C-A313-70D140CE9F2C}|prakt8.csproj|solutionrelative:priem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26616D96-978D-4F2C-A313-70D140CE9F2C}|prakt8.csproj|c:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26616D96-978D-4F2C-A313-70D140CE9F2C}|prakt8.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26616D96-978D-4F2C-A313-70D140CE9F2C}|prakt8.csproj|c:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\pages\\createpriem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26616D96-978D-4F2C-A313-70D140CE9F2C}|prakt8.csproj|solutionrelative:pages\\createpriem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mainPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\pages\\mainPage.xaml.cs",
+              "RelativeDocumentMoniker": "pages\\mainPage.xaml.cs",
+              "ToolTip": "C:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\pages\\mainPage.xaml.cs*",
+              "RelativeToolTip": "pages\\mainPage.xaml.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:13:27.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainPage.xaml",
+              "DocumentMoniker": "C:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\pages\\mainPage.xaml",
+              "RelativeDocumentMoniker": "pages\\mainPage.xaml",
+              "ToolTip": "C:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\pages\\mainPage.xaml",
+              "RelativeToolTip": "pages\\mainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-11T17:10:37.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "createPriem.xaml.cs",
+              "DocumentMoniker": "C:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\pages\\createPriem.xaml.cs",
+              "RelativeDocumentMoniker": "pages\\createPriem.xaml.cs",
+              "ToolTip": "C:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\pages\\createPriem.xaml.cs",
+              "RelativeToolTip": "pages\\createPriem.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T16:41:38.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "createPriem.xaml",
+              "DocumentMoniker": "C:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\pages\\createPriem.xaml",
+              "RelativeDocumentMoniker": "pages\\createPriem.xaml",
+              "ToolTip": "C:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\pages\\createPriem.xaml",
+              "RelativeToolTip": "pages\\createPriem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-11T15:45:31.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Priem.cs",
+              "DocumentMoniker": "C:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\Priem.cs",
+              "RelativeDocumentMoniker": "Priem.cs",
+              "ToolTip": "C:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\Priem.cs",
+              "RelativeToolTip": "Priem.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T15:41:08.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pacient.cs",
+              "DocumentMoniker": "C:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\Pacient.cs",
+              "RelativeDocumentMoniker": "Pacient.cs",
+              "ToolTip": "C:\\\u0444\u0430\u0439\u043B\u044B\\wpf\\prakt8\\Pacient.cs",
+              "RelativeToolTip": "Pacient.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T15:18:39.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 84,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

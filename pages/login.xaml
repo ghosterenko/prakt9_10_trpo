@@ -1,0 +1,17 @@
+﻿<Page x:Class="prakt8.pages.login"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="login">
+    <StackPanel Width="400px" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Label Content="ID" HorizontalAlignment="Center"/>
+        <TextBox x:Name="idTb" Width="200px" TextChanged="TextBox_TextChanged" />
+        <Label Content="Пароль" HorizontalAlignment="Center"/>
+        <TextBox x:Name="passwordTb" Width="200px"/>
+        <Button x:Name="loginBtn" Width="200px" Height="30px" Margin="0 5" Content="Войти" Click="loginBtn_Click"/>
+        <Button x:Name="registrBtn" Width="200px" Height="30px" Margin="0 5" Content="Регистрация" Click="registrBtn_Click"/>
+    </StackPanel>
+</Page>

@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="ButtonBackground" Color="#f542bf"/>
+    <SolidColorBrush x:Key="ButtonHover" Color="#e06ebe"/>
+    <SolidColorBrush x:Key="ButtonPressed" Color="#db4460"/>
+    <SolidColorBrush x:Key="ButtonForeground" Color="#FFFFFF"/>
+    <SolidColorBrush x:Key="ButtonBorder" Color="#c7429f"/>
+    <SolidColorBrush x:Key="backgroundPage" Color="#FFFFFF"/>
+    <SolidColorBrush x:Key="textcolor" Color="#000000"/>
+    <SolidColorBrush x:Key="downblock" Color="AntiqueWhite"/>
+    
+</ResourceDictionary>

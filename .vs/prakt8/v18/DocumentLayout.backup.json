@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0444\u0430\u0439\u043B\u044B\\C#\\prakt9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51FEEA97-FF53-4C37-8E89-75952F176A55}|prakt8.csproj|c:\\\u0444\u0430\u0439\u043B\u044B\\c#\\prakt9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51FEEA97-FF53-4C37-8E89-75952F176A55}|prakt8.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FEEA97-FF53-4C37-8E89-75952F176A55}|prakt8.csproj|c:\\\u0444\u0430\u0439\u043B\u044B\\c#\\prakt9\\styles\\ui\\page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51FEEA97-FF53-4C37-8E89-75952F176A55}|prakt8.csproj|solutionrelative:styles\\ui\\page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FEEA97-FF53-4C37-8E89-75952F176A55}|prakt8.csproj|c:\\\u0444\u0430\u0439\u043B\u044B\\c#\\prakt9\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51FEEA97-FF53-4C37-8E89-75952F176A55}|prakt8.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FEEA97-FF53-4C37-8E89-75952F176A55}|prakt8.csproj|c:\\\u0444\u0430\u0439\u043B\u044B\\c#\\prakt9\\pages\\startpriem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51FEEA97-FF53-4C37-8E89-75952F176A55}|prakt8.csproj|solutionrelative:pages\\startpriem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FEEA97-FF53-4C37-8E89-75952F176A55}|prakt8.csproj|c:\\\u0444\u0430\u0439\u043B\u044B\\c#\\prakt9\\pacient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FEEA97-FF53-4C37-8E89-75952F176A55}|prakt8.csproj|solutionrelative:pacient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\\u0444\u0430\u0439\u043B\u044B\\C#\\prakt9\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\\u0444\u0430\u0439\u043B\u044B\\C#\\prakt9\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-11T13:47:46.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page.xaml",
+              "DocumentMoniker": "C:\\\u0444\u0430\u0439\u043B\u044B\\C#\\prakt9\\Styles\\UI\\Page.xaml",
+              "RelativeDocumentMoniker": "Styles\\UI\\Page.xaml",
+              "ToolTip": "C:\\\u0444\u0430\u0439\u043B\u044B\\C#\\prakt9\\Styles\\UI\\Page.xaml",
+              "RelativeToolTip": "Styles\\UI\\Page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-11T13:47:22.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pacient.cs",
+              "DocumentMoniker": "C:\\\u0444\u0430\u0439\u043B\u044B\\C#\\prakt9\\Pacient.cs",
+              "RelativeDocumentMoniker": "Pacient.cs",
+              "ToolTip": "C:\\\u0444\u0430\u0439\u043B\u044B\\C#\\prakt9\\Pacient.cs",
+              "RelativeToolTip": "Pacient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:44:36.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "startPriem.xaml",
+              "DocumentMoniker": "C:\\\u0444\u0430\u0439\u043B\u044B\\C#\\prakt9\\pages\\startPriem.xaml",
+              "RelativeDocumentMoniker": "pages\\startPriem.xaml",
+              "ToolTip": "C:\\\u0444\u0430\u0439\u043B\u044B\\C#\\prakt9\\pages\\startPriem.xaml",
+              "RelativeToolTip": "pages\\startPriem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-11T12:42:28.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mainPage.xaml",
+              "DocumentMoniker": "C:\\\u0444\u0430\u0439\u043B\u044B\\C#\\prakt9\\pages\\mainPage.xaml",
+              "RelativeDocumentMoniker": "pages\\mainPage.xaml",
+              "ToolTip": "C:\\\u0444\u0430\u0439\u043B\u044B\\C#\\prakt9\\pages\\mainPage.xaml",
+              "RelativeToolTip": "pages\\mainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-11T12:04:37.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 84,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
